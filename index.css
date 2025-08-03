@@ -42,7 +42,7 @@ nav > ul > li > a {
   color: black;
   font-size: 22px;
   text-transform: capitalize;
-  transition: all 0.2s ease;
+  transition: all 0.1s ease;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -159,7 +159,7 @@ border:2px solid #0077b5;
   text-decoration: none;
   font-weight: 600;
   font-size: 16px;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.1s ease;
   letter-spacing: 1.5px;
 }
 
@@ -184,7 +184,7 @@ border:2px solid #0077b5;
   width: 55px;
   padding: 8px;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.1s ease;
 }
 
 .btn-social > ul > li > a > img:hover {
@@ -202,7 +202,7 @@ border:2px solid #0077b5;
   height: 350px;
   width: 400px;
   border-radius: 20px;
-  transition: transform 0.3s ease;
+  transition: transform 0.1s ease;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -705,6 +705,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
