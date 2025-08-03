@@ -257,7 +257,8 @@ color: rgb(16, 14, 14);
   }
 
   .intro > h3 {
-    font-size: 22px;
+    font-size: 23px;
+     font-weight: 400;
   }
 
   .contactMe {
@@ -704,6 +705,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
