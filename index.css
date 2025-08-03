@@ -42,7 +42,7 @@ nav > ul > li > a {
   color: black;
   font-size: 22px;
   text-transform: capitalize;
-  transition: all 0.1s ease;
+  transition: all ease;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -705,6 +705,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
