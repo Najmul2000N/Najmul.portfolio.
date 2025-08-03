@@ -92,7 +92,7 @@ nav > ul > li > a:hover {
 .intro > h1 {
   font-size: 50px;
   font-weight: 700;
-  color: #40b5f5;
+   color: #ac51f2;
   letter-spacing: 2px;
 }
 
@@ -254,7 +254,8 @@ color: rgb(16, 14, 14);
   }
 
   .intro > h1 {
-    font-size: 29px;
+    font-size: 28px;
+     color: #ac51f2;
   }
 
   .intro > h3 {
@@ -349,6 +350,7 @@ color: rgb(16, 14, 14);
 
   .intro > h1 {
     font-size: 32px;
+     color: #ac51f2;
   }
 
   .intro > h3 {
@@ -706,6 +708,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
