@@ -130,11 +130,12 @@ nav > ul > li > a:hover {
   height: 35px;
   width: 35px;
 border:2px solid #0077b5;
+   border-radius: 50%;
 }
 .email > a > img {
   height: 40px;
   width: 40px;
-
+ border-radius: 50%;
   border:2px solid #0077b5;
 }
 .ph > a > img:hover {
@@ -703,6 +704,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
