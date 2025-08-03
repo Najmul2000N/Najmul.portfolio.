@@ -227,7 +227,7 @@ color: rgb(16, 14, 14);
   }
 
   nav > ul > li > a {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .main {
@@ -249,11 +249,11 @@ color: rgb(16, 14, 14);
   }
 
   .intro > h1 {
-    font-size: 25px;
+    font-size: 27px;
   }
 
   .intro > h3 {
-    font-size: 20px;
+    font-size: 22px;
   }
 
   .contactMe {
@@ -318,7 +318,7 @@ color: rgb(16, 14, 14);
   }
 
   nav > ul > li > a {
-    font-size: 16px;
+    font-size: 18px;
     
   }
 
@@ -700,4 +700,5 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
