@@ -207,7 +207,7 @@ nav > ul > li > a:hover {
   transform: scale(1.03);
 }
 footer{
-font-size: 16px;
+font-size: 13px;
 text-transform: capitalize;
 letter-spacing: 2px;
 padding: 5px;
@@ -498,6 +498,13 @@ color: rgb(16, 14, 14);
     height: auto;
     max-width: 350px;
   }
+  footer{
+font-size: 16px;
+text-transform: capitalize;
+letter-spacing: 2px;
+padding: 5px;
+color: rgb(16, 14, 14);
+}
 }
 
 @media screen and (min-width: 1024px) {
@@ -693,3 +700,4 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
