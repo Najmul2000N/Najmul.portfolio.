@@ -141,12 +141,12 @@ border:2px solid #0077b5;
 .ph > a > img:hover {
   padding: 5px;
   border-radius: 50%;
-  border: 2px solid blue;
+  border: 2px solid red;
 }
 .email > a > img:hover {
     padding: 5px;
   border-radius: 50%;
-  border: 2px solid blue;
+  border: 2px solid red;
 }
 .btn > a {
   display: inline-block;
@@ -183,6 +183,7 @@ border:2px solid #0077b5;
   height: 55px;
   width: 55px;
   padding: 8px;
+  border-radius: 50%;
   text-decoration: none;
   transition: all 0.1s ease;
 }
@@ -705,6 +706,7 @@ color: rgb(16, 14, 14);
     transform: scale(1.03);
   }
 }
+
 
 
 
